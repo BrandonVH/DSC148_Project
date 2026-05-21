@@ -19,3 +19,4 @@ RNN PERFORMANCE:
 
 XGB PERFORMANCE:
 1. binary_accuracy: 0.85 (validation data)
+ 
